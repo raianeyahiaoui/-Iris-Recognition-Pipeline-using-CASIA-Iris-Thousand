@@ -73,7 +73,7 @@ The pipeline is divided into three main stages:
 
 Here are the keypoints detected for `S5027L07_eye_1_iris.png`:
 
-![Keypoints Output](results/S5027L07_eye_1_iris.png)
+![Keypoints Output](S5027L07_eye_1_iris.png)
 
 ---
 
