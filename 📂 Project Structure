@@ -1,0 +1,9 @@
+.
+├── extract_iris_from_json.py      # Step 2: Extract iris from LabelMe JSON
+├── preprocess_images.py          # Step 1: Resize and clean raw images
+├── sift_keypoints.py             # Step 3: Mask and apply SIFT
+├── data/
+│   ├── CASIA/                    # Original CASIA images
+│   ├── annotations/             # LabelMe JSON files
+│   ├── iris_images_preprocessed/
+│   ├── keypoints_output/
