@@ -39,13 +39,14 @@ The pipeline is divided into three main stages:
 
 ### Keypoints Data
 
-Here are the keypoints detected for `S5026L07_eye_1_iris.png`:
+Here are the keypoints detected for `S5027L07_eye_1_iris`:
 
 ## 📊 Conclusion
 This pipeline efficiently processes iris images and extracts keypoints, enhancing the accuracy of iris recognition systems. Your insights and feedback will be invaluable for further improvements.
 
-## 📄 Contact Information
-Name: Raiane Yahiaoui
-Email: ikba.king2015@gmail.com
+## 📫 Contact
+
+Raiane Yahiaoui  
+Email: your.email@example.com  
 LinkedIn: linkedin.com/in/yahiaoui-raiane-253911262
 
